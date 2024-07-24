@@ -1,4 +1,4 @@
-This a full MP4 player made from scratch, utilizing the K64 ARM CPU. The drivers are divided in a multiple layer architecture according to their functional logic. 
+This a full MP4 player developed from scratch in C, utilizing the K64 ARM CPU. The drivers are divided in a multiple layer architecture according to their functional logic:
 
 ![Driver Architecture](https://github.com/Agusgal/Micros-TPF/blob/main/docs/mp3arch%20(1).png)
 
